@@ -23,3 +23,4 @@ Frontend:
 ```
 
 Versão do node: 18x
+Bando de dados: Mysql 8x
